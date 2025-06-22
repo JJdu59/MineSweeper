@@ -19,14 +19,10 @@ pip install pygame
 
 ## ▶️ How to Run
 
-1. Save script as `demajeur.py`
-2. Add the following assets in an `assets/` folder:
-   - `loser.ogg`
-   - `loser2.mp3`
-   - `flag.png`
-3. Run the game:
+1. Clone the repository
+2. Run the game:
 ```bash
-python demajeur.py
+python demineur.py
 ```
 
 ## 🎮 Controls
